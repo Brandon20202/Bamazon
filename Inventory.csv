@@ -1,5 +1,5 @@
-1,Air soft Gun,Sports/Outdoors,35.88,10
-2,Xbox One,VideoGames,159.24,4
-3,PS#,VideoGames,39.68, 4
-4,36inTV,Electronics, 85, 2
-5,bananas,food,.65,50
+INSERT into products VALUES 1,Air soft Gun,Sports/Outdoors,35.88,10
+INSERT into prducts VAlUES 2,Xbox One,VideoGames,159.24,4
+INSERT into products VALUES 3,PS4,VideoGames,39.68, 4
+INSERT into products VALUES 4,36inTV,Electronics, 85, 2
+INSERT into products VALUES 5,bananas,food,.65,50
